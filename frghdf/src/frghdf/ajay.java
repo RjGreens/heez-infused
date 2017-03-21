@@ -12,7 +12,6 @@ public class ajay extends mkncfsd{
 
 	@Override
 	public void maan(int age) {
-		System.out.println("sdfdsf");
 	}
 
 	
